@@ -5,6 +5,8 @@ import fs from 'fs';
 import imageRoutes from './api/routes/images';
 import loginRoutes from './api/routes/login';
 
+import { AppLogger } from './api/helper/appLogger';
+
 const app: Application = express();
 
 app.use(morgan('common', { stream: fs.createWriteStream('./log/accessLog/access.log', {flags: 'a'}) }));
@@ -50,5 +52,7 @@ app.use((error: any, req: Request, res: Response, next: NextFunction) => {
     });
 });
 
+AppLogger.configureLogger();
+AppLogger.info("info","Logger has been configured");
 
 export = app;

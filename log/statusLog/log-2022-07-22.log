@@ -1,0 +1,28 @@
+2022-07-22T10:53:51.445Z info: info-  Logger has been configured
+2022-07-22T10:53:51.447Z error: error-  Logger has been configured
+2022-07-22T10:55:10.633Z info: info-  Logger has been configured
+2022-07-22T10:55:10.634Z error: hola-  Logger has been configured
+2022-07-22T10:55:46.180Z info: info-  Logger has been configured
+2022-07-22T10:55:46.181Z error: hola-  Logger has been configured
+2022-07-22T10:56:42.930Z info: info-  Logger has been configured
+2022-07-22T10:56:42.932Z error: hola-  Logger has been configured
+2022-07-22T10:58:49.027Z info: info-  Logger has been configured
+2022-07-22T10:59:08.012Z info: info-  Logger has been configured
+2022-07-22T11:09:57.418Z info: info-  Logger has been configured
+2022-07-22T11:10:21.295Z info: info-  Logger has been configured
+2022-07-22T11:11:21.706Z info: info-  Logger has been configured
+2022-07-22T11:11:49.497Z info: Nasa URl value-  https://api.nasa.gov/mars-photos/api/v1/rovers/curiosity/photos?sol=2&?pages=1&?camera=FHAZ&api_key=pMrahGvojfItyayGubpcMazD0hRsYm4L7hfYFuvP
+2022-07-22T11:13:09.920Z info: info-  Logger has been configured
+2022-07-22T11:14:36.359Z info: info-  Logger has been configured
+2022-07-22T11:14:40.335Z info: info-  Logger has been configured
+2022-07-22T11:15:17.124Z info: info-  Logger has been configured
+2022-07-22T11:15:51.728Z info: info-  Logger has been configured
+2022-07-22T11:16:29.040Z info: info-  Logger has been configured
+2022-07-22T11:16:35.945Z info: Nasa URl value-  https://api.nasa.gov/mars-photos/api/v1/rovers/curiosity/photos?sol=2&?pages=1&?camera=FHAZ&api_key=pMrahGvojfItyayGubpcMazD0hRsYm4L7hfYFuvP
+2022-07-22T11:19:08.958Z info: info-  Logger has been configured
+2022-07-22T11:19:27.045Z info: info-  Logger has been configured
+2022-07-22T11:20:31.277Z info: info-  Logger has been configured
+2022-07-22T11:20:39.910Z info: info-  Logger has been configured
+2022-07-22T11:20:46.019Z info: Nasa URl value-  https://api.nasa.gov/mars-photos/api/v1/rovers/curiosity/photos?sol=2&?pages=1&?camera=FHAZ&api_key=pMrahGvojfItyayGubpcMazD0hRsYm4L7hfYFuvP
+2022-07-22T11:20:48.186Z info: cached Data-  Data returned from cache
+2022-07-22T11:21:18.587Z info: info-  Logger has been configured
