@@ -1,0 +1,12 @@
+{
+    "server": {
+      "port": 5000
+    },
+    "token": {
+      "tokenDuration": "3h"
+    },
+    "nasaBaseUrl": "https://api.nasa.gov/mars-photos/api/v1/rovers/",
+    "appPrivateKey": "J04N4_CH14R4_9421_p1Ch0_91_ADWAISEO",
+    "nasaPrivateKey": "pMrahGvojfItyayGubpcMazD0hRsYm4L7hfYFuvP",
+    "roversAllowed": ["CURIOSITY","OPPORTUNITY","SPIRIT"]
+  }
