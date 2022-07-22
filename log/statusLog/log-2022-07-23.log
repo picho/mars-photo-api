@@ -1,0 +1,91 @@
+2022-07-22T22:25:09.322Z info: info-  Logger has been configured
+2022-07-22T22:26:21.599Z info: info-  Logger has been configured
+2022-07-22T22:26:50.250Z info: info-  Logger has been configured
+2022-07-22T22:26:50.317Z error: General Error-{}
+2022-07-22T22:28:06.152Z info: info-  Logger has been configured
+2022-07-22T22:28:06.183Z error: General Error-{}
+2022-07-22T22:28:35.837Z info: info-  Logger has been configured
+2022-07-22T22:28:35.869Z error: General Error-{}
+2022-07-22T22:29:07.729Z info: info-  Logger has been configured
+2022-07-22T22:29:07.769Z error: General Error-{}
+2022-07-22T22:30:02.957Z info: info-  Logger has been configured
+2022-07-22T22:30:03.019Z error: General Error-{}
+2022-07-22T22:30:16.363Z info: info-  Logger has been configured
+2022-07-22T22:30:16.403Z error: General Error-{}
+2022-07-22T22:30:31.564Z info: info-  Logger has been configured
+2022-07-22T22:30:31.595Z error: General Error-{}
+2022-07-22T22:30:47.264Z info: info-  Logger has been configured
+2022-07-22T22:30:47.294Z error: General Error-{}
+2022-07-22T22:31:29.572Z info: info-  Logger has been configured
+2022-07-22T22:31:46.879Z info: info-  Logger has been configured
+2022-07-22T22:31:46.954Z error: General Error-{}
+2022-07-22T22:31:49.732Z info: info-  Logger has been configured
+2022-07-22T22:31:49.767Z error: General Error-{}
+2022-07-22T22:34:02.449Z info: info-  Logger has been configured
+2022-07-22T22:34:02.776Z error: General Error-{}
+2022-07-22T22:34:07.215Z info: info-  Logger has been configured
+2022-07-22T22:34:07.252Z error: General Error-{}
+2022-07-22T22:34:47.600Z info: info-  Logger has been configured
+2022-07-22T22:34:47.687Z error: General Error-{}
+2022-07-22T22:34:51.738Z info: info-  Logger has been configured
+2022-07-22T22:34:51.779Z error: General Error-{}
+2022-07-22T22:35:06.903Z info: info-  Logger has been configured
+2022-07-22T22:35:06.948Z error: General Error-{}
+2022-07-22T22:35:11.566Z info: info-  Logger has been configured
+2022-07-22T22:35:11.603Z error: General Error-{}
+2022-07-22T22:36:07.667Z info: info-  Logger has been configured
+2022-07-22T22:36:07.739Z error: General Error-{}
+2022-07-22T22:36:13.595Z info: info-  Logger has been configured
+2022-07-22T22:37:34.239Z info: info-  Logger has been configured
+2022-07-22T22:37:34.315Z error: General Error-{}
+2022-07-22T22:37:38.821Z info: info-  Logger has been configured
+2022-07-22T22:38:06.702Z info: info-  Logger has been configured
+2022-07-22T22:38:06.771Z error: General Error-{}
+2022-07-22T22:38:12.209Z info: info-  Logger has been configured
+2022-07-22T22:39:18.129Z info: info-  Logger has been configured
+2022-07-22T22:40:54.239Z info: cached Data-  Data returned from cache
+2022-07-22T22:40:54.244Z info: Nasa URl value-  https://api.nasa.gov/mars-photos/api/v1/rovers/curiosity/photos?sol=2&?pages=1&?camera=FHAZ&api_key=pMrahGvojfItyayGubpcMazD0hRsYm4L7hfYFuvP
+2022-07-22T22:41:19.468Z info: info-  Logger has been configured
+2022-07-22T22:41:44.157Z info: info-  Logger has been configured
+2022-07-22T22:41:44.204Z error: General Error-{}
+2022-07-22T22:41:47.948Z info: info-  Logger has been configured
+2022-07-22T22:42:17.212Z info: info-  Logger has been configured
+2022-07-22T22:43:01.809Z info: info-  Logger has been configured
+2022-07-22T22:43:57.322Z info: info-  Logger has been configured
+2022-07-22T22:44:13.546Z info: info-  Logger has been configured
+2022-07-22T22:44:35.780Z info: info-  Logger has been configured
+2022-07-22T22:44:58.661Z info: info-  Logger has been configured
+2022-07-22T22:44:58.694Z error: General Error-{}
+2022-07-22T22:45:10.820Z info: info-  Logger has been configured
+2022-07-22T22:45:43.299Z info: info-  Logger has been configured
+2022-07-22T22:45:57.797Z info: info-  Logger has been configured
+2022-07-22T22:47:17.714Z info: info-  Logger has been configured
+2022-07-22T22:47:51.766Z info: info-  Logger has been configured
+2022-07-22T22:48:16.986Z info: info-  Logger has been configured
+2022-07-22T22:49:56.085Z info: info-  Logger has been configured
+2022-07-22T22:50:21.039Z info: info-  Logger has been configured
+2022-07-22T22:50:46.668Z info: info-  Logger has been configured
+2022-07-22T22:51:17.659Z info: info-  Logger has been configured
+2022-07-22T22:51:37.011Z info: info-  Logger has been configured
+2022-07-22T22:52:41.363Z info: info-  Logger has been configured
+2022-07-22T22:52:41.421Z info: cached Data-  Data returned from cache
+2022-07-22T22:52:49.661Z info: info-  Logger has been configured
+2022-07-22T22:52:49.816Z info: cached Data-  Data returned from cache
+2022-07-22T22:54:23.648Z info: info-  Logger has been configured
+2022-07-22T22:54:23.781Z info: cached Data-  Data returned from cache
+2022-07-22T22:55:27.699Z info: info-  Logger has been configured
+2022-07-22T22:55:27.770Z info: cached Data-  Data returned from cache
+2022-07-22T22:55:27.771Z info: Nasa URl value-  https://api.nasa.gov/mars-photos/api/v1/rovers/curiosity/photos?sol=1&api_key=pMrahGvojfItyayGubpcMazD0hRsYm4L7hfYFuvP
+2022-07-22T22:57:52.110Z info: info-  Logger has been configured
+2022-07-22T22:57:52.230Z info: cached Data-  Data returned from cache
+2022-07-22T22:57:52.231Z info: Nasa URl value-  https://api.nasa.gov/mars-photos/api/v1/rovers/curiosity/photos?sol=1&api_key=pMrahGvojfItyayGubpcMazD0hRsYm4L7hfYFuvP
+2022-07-22T22:58:02.374Z info: info-  Logger has been configured
+2022-07-22T22:58:02.582Z info: cached Data-  Data returned from cache
+2022-07-22T22:58:02.610Z info: Nasa URl value-  https://api.nasa.gov/mars-photos/api/v1/rovers/curiosity/photos?sol=1&api_key=pMrahGvojfItyayGubpcMazD0hRsYm4L7hfYFuvP
+2022-07-22T22:59:25.564Z info: info-  Logger has been configured
+2022-07-22T22:59:25.620Z info: cached Data-  Data returned from cache
+2022-07-22T22:59:25.691Z info: cached Data-  Data returned from cache
+2022-07-22T22:59:25.692Z info: Nasa URl value-  https://api.nasa.gov/mars-photos/api/v1/rovers/curiosity/photos?sol=1&api_key=pMrahGvojfItyayGubpcMazD0hRsYm4L7hfYFuvP
+2022-07-22T23:00:50.503Z info: info-  Logger has been configured
+2022-07-22T23:00:50.575Z info: cached Data-  Data returned from cache
+2022-07-22T23:00:50.590Z info: cached Data-  Data returned from cache

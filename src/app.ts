@@ -9,6 +9,9 @@ import { AppLogger } from './api/helper/appLogger';
 
 const app: Application = express();
 
+AppLogger.configureLogger();
+AppLogger.info("info","Logger has been configured");
+
 app.use(morgan('common', { stream: fs.createWriteStream('./log/accessLog/access.log', {flags: 'a'}) }));
 app.use(morgan('dev'));
 
@@ -44,6 +47,9 @@ app.use((req: Request, res: Response, next: NextFunction) => {
 //Handles aplication errors
 app.use((error: any, req: Request, res: Response, next: NextFunction) => {
 
+    
+    AppLogger.error("General Error", error);
+
     res.status(error.status || 500)
     .json({
         error: {
@@ -52,7 +58,6 @@ app.use((error: any, req: Request, res: Response, next: NextFunction) => {
     });
 });
 
-AppLogger.configureLogger();
-AppLogger.info("info","Logger has been configured");
+
 
 export = app;

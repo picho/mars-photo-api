@@ -5,8 +5,8 @@ import * as imagesController from '../controllers/images';
 
 const route: Router =  Express.Router();
 
-route.get('/', imagesController.get_images);
+route.get('/:nombre', imagesController.get_test);
 
-route.get('/:rover/photo', CheckToken, imagesController.get_image_by_name);
+route.get('/:rover/photo', CheckToken, imagesController.get_images);
 
 export = route;
