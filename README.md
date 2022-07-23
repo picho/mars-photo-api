@@ -15,7 +15,7 @@ Use the following steps to make this app work.
 ```npm build```: This command is going to compile all the TypeScript files to create the JavaScript files.
 ```npm run dev```: This command is going to start the app in dev mode.
 ```npm start```: This command is going to start the app using the compiled JavaScript files.
-```npm test```: This command is going to start the test suit.
+```npm test```: This command is going to start the test suit. (**Important: if this commands fails, run npm build to create the test in Javascript and than run again npm test**)
 
 If you user the command npm dev. When the app is running, if everything is ok, you should see the following message.
 
