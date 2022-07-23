@@ -52,6 +52,6 @@ Example ULR -> localhost:5000/images/<Rover>/photo?sol=<SolValue>&pages=<PageVal
 
 **Note: For this endpoint, parameter sol is required**
 
-**### Disclaimer **
+### Disclaimer
 
 - In Login route, in the url the value for <Username> can be any string value.
