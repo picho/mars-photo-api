@@ -12,10 +12,10 @@ Use the following steps to make this app work.
 4. Once in the folder, write ```npm install``` and press enter. Wait until all the packages are installed.
 5. Once the installation is finished, there are commands to run the app.
 
-```npm build```: This command is going to compile all the TypeScript files to create the JavaScript files.
-```npm run dev```: This command is going to start the app in dev mode.
-```npm start```: This command is going to start the app using the compiled JavaScript files.
-```npm test```: This command is going to start the test suit. (**Important: if this commands fails, run npm build to create the test in Javascript and than run again npm test**)
+- ```npm build```: This command is going to compile all the TypeScript files to create the JavaScript files.
+- ```npm run dev```: This command is going to start the app in dev mode.
+- ```npm start```: This command is going to start the app using the compiled JavaScript files.
+- ```npm test```: This command is going to start the test suit. (**Important: if this commands fails, run npm build to create the test in Javascript and than run again npm test**)
 
 If you user the command npm dev. When the app is running, if everything is ok, you should see the following message.
 
