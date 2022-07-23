@@ -51,7 +51,7 @@ export const get_images = async (req: Request, res: Response, next: NextFunction
         AppLogger.info('cached Data', 'Data returned from cache');
 
         return  res.status(200).json({
-            result: cachedData
+            photos: cachedData
         });
     }
 
@@ -65,7 +65,7 @@ export const get_images = async (req: Request, res: Response, next: NextFunction
         });
 
     res.status(200).json({
-        result: data.photos
+        photos: data.photos
     });
 
     myCache.set(flatedParams, data.photos);
