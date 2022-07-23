@@ -12,15 +12,6 @@ const myCache = new NodeCache( { stdTTL: 100, checkperiod: 120 } );
 
 const roversAllowed: string[] = congif.get('roversAllowed');
 
-export const get_test = (req: Request, res: Response, next:  NextFunction) => {
-
-
-    res.status(200).json({
-        message: req.params.nombre
-    });
-   
-}
-
 export const get_images = async (req: Request, res: Response, next: NextFunction) => {
 
     AppLogger.info('cached Data', 'Data returned from cache');

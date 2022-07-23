@@ -17,10 +17,6 @@ const pages: number = 1;
 
 describe("Testing image controler to get the images from Nasa's services", () => {
     
-    it("Get images", () => {
-        return request(app).get('/images/hola').expect(200);
-    });
-
     it("Get /images/:rover/photo -> Request without token -> 401 Unauthorized", () => {
 
         return request(app).get('/images/curiosity/photo').expect(401);
