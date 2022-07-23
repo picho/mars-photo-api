@@ -40,7 +40,9 @@ This api has two routes and you should use the http protocols to call their endp
 
 This route only has one endpoint. It has to be called with the http protocol get to get the token that is needed to call the endpoint images.
 
+```
 Example URL -> localhost:5000/login/getToken/<Username>
+```
 
 ### Images
 
@@ -48,7 +50,9 @@ This route has many endpoints. It has to be called with the http protocols. The 
 
 get -> sending a rover name and query params () -> get the photos taken by the rover.
 
+```
 Example ULR -> localhost:5000/images/<Rover>/photo?sol=<SolValue>&pages=<PageValue>&camera=<Camera>
+```
 
 **Note: For this endpoint, parameter sol is required**
 
